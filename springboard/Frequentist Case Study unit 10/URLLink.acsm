@@ -1,0 +1,26 @@
+<fulfillmentToken fulfillmentType="buy" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:d051ad0d-03ed-4b63-b257-5bfe2e304a80</distributor>
+  <operatorURL>http://acs.ebookscorporation.com/fulfillment</operatorURL>
+  <transaction>EBC-235234903</transaction>
+  <expiration>2020-05-08T02:54:47+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:e0000000-0000-0000-0000-000209594871</resource>
+    <resourceItem>1</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">The Art of Statistics</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Spiegelhalter, David</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Basic Books</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">9781541618527</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:e0000000-0000-0000-0000-000209594871</resource>
+      <permissions>
+        <display/>
+        <play/>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>RqRIKmHPoLj22gNf4Lw9j9yY8Lg=</hmac>
+</fulfillmentToken>
